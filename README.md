@@ -1,2 +1,3 @@
 # document_clustering
-A small dataset where I cluster posts on newsgroups.
+
+This project is explored on the jupyter notebook 'Document Clustering.ipynb' within the repo.
